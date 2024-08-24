@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/achal2000-oss/LEETCODE/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/achal2000-oss/LEETCODE/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/achal2000-oss/LEETCODE/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/achal2000-oss/LEETCODE/tree/master/1258-article-views-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/achal2000-oss/LEETCODE/tree/master/1664-find-users-with-valid-e-mails) |
